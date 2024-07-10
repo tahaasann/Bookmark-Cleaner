@@ -112,6 +112,8 @@ print(f"Cleaning complete. {duplicate_count} duplicate links removed. The cleane
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+[@tahaasann](https://www.github.com/tahaasann)
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
